@@ -1,0 +1,37 @@
+﻿<Window x:Class="Kursovaya_ONIT_3.WPF.TreatmentTable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursovaya_ONIT_3.WPF"
+        mc:Ignorable="d"
+           WindowStartupLocation="CenterScreen"
+        Title="Процедуры" Height="450" Width="800">
+    <Grid>
+        <DataGrid CanUserAddRows="False" Name ="DataTable2" HorizontalAlignment="Left" Height="185" Margin="10,10,0,0" VerticalAlignment="Top" Width="606"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="10,384,0,0" VerticalAlignment="Top" Width="151" FontSize="18" Click="Button_Click"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="610,384,0,0" VerticalAlignment="Top" Width="128" FontSize="18" Click="Button_Click_1"/>
+        <TextBox Name="MasterName" HorizontalAlignment="Left" Height="23" Margin="10,356,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name ="Duration" HorizontalAlignment="Left" Height="23" Margin="10,309,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name ="Cost" HorizontalAlignment="Left" Height="23" Margin="10,263,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="NameOfTreatment" HorizontalAlignment="Left" Height="23" Margin="10,220,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Название процедуры" HorizontalAlignment="Left" Margin="10,195,0,0" VerticalAlignment="Top"/>
+        <Label Content="Стоимость процедуры" HorizontalAlignment="Left" Margin="10,238,0,0" VerticalAlignment="Top"/>
+        <Label Content="Длительность процедуры" HorizontalAlignment="Left" Margin="10,284,0,0" VerticalAlignment="Top"/>
+        <Label Content="Имя мастера" HorizontalAlignment="Left" Margin="10,332,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="DurationMin" HorizontalAlignment="Left" Height="23" Margin="247,352,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="DurationMax" HorizontalAlignment="Left" Height="23" Margin="401,352,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.118,1.247"/>
+        <Button Content="Отобразить подходящие" HorizontalAlignment="Left" Margin="247,384,0,0" VerticalAlignment="Top" Width="284" FontSize="18" Click="Button_Click_2"/>
+        <TextBox Name="CostMin" HorizontalAlignment="Left" Height="23" Margin="247,304,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="CostMax" HorizontalAlignment="Left" Height="23" Margin="401,304,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Стоимость процедуры" HorizontalAlignment="Left" Margin="247,274,0,0" VerticalAlignment="Top"/>
+        <Label Content="До:" HorizontalAlignment="Left" Margin="370,302,0,0" VerticalAlignment="Top"/>
+        <Label Content="Длительность процедуры" HorizontalAlignment="Left" Margin="247,327,0,0" VerticalAlignment="Top"/>
+        <Label Content="От:" HorizontalAlignment="Left" Margin="216,302,0,0" VerticalAlignment="Top"/>
+        <Label Content="От:" HorizontalAlignment="Left" Margin="216,350,0,0" VerticalAlignment="Top"/>
+        <Label Content="До:" HorizontalAlignment="Left" Margin="370,350,0,0" VerticalAlignment="Top"/>
+        <Button Content="Убрать фильтр" HorizontalAlignment="Left" Margin="627,28,0,0" VerticalAlignment="Top" Width="132" FontSize="18" Click="Button_Click_3"/>
+        <Label Content="Дробные числа через ',' " HorizontalAlignment="Left" Margin="317,249,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

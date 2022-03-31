@@ -1,0 +1,64 @@
+C:\Users\fedot\source\repos\ONIT 1\bin\Debug\ONIT 1.exe.config
+C:\Users\fedot\source\repos\ONIT 1\bin\Debug\ONIT 1.exe
+C:\Users\fedot\source\repos\ONIT 1\bin\Debug\ONIT 1.pdb
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\ONIT 1.csprojAssemblyReference.cache
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\WPF\ClientsTable.g.cs
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\WPF\LogOfRecordsTable.g.cs
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\WPF\MainWindow.g.cs
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\WPF\TreatmentTable.g.cs
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\App.g.cs
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\ONIT 1_MarkupCompile.cache
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\ONIT 1_MarkupCompile.lref
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\WPF\ClientsTable.baml
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\WPF\LogOfRecordsTable.baml
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\WPF\MainWindow.baml
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\WPF\TreatmentTable.baml
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\ONIT 1.g.resources
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\ONIT_1.Properties.Resources.resources
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\ONIT 1.csproj.GenerateResource.cache
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\ONIT 1.csproj.CoreCompileInputs.cache
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\ONIT 1.exe
+C:\Users\fedot\source\repos\ONIT 1\obj\Debug\ONIT 1.pdb
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\bin\Debug\ONIT 1.exe.config
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\bin\Debug\ONIT 1.exe
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\bin\Debug\ONIT 1.pdb
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\ONIT 1.csprojAssemblyReference.cache
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\WPF\ClientsTable.g.cs
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\WPF\LogOfRecordsTable.g.cs
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\WPF\MainWindow.g.cs
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\WPF\TreatmentTable.g.cs
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\App.g.cs
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\ONIT 1_MarkupCompile.cache
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\ONIT 1_MarkupCompile.lref
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\WPF\ClientsTable.baml
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\WPF\LogOfRecordsTable.baml
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\WPF\MainWindow.baml
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\WPF\TreatmentTable.baml
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\ONIT 1.g.resources
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\ONIT_1.Properties.Resources.resources
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\ONIT 1.csproj.GenerateResource.cache
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\ONIT 1.csproj.CoreCompileInputs.cache
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\ONIT 1.exe
+C:\Users\fedot\Desktop\ONIT_1\ONIT 1\obj\Debug\ONIT 1.pdb
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\bin\Debug\ONIT 1.exe.config
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\bin\Debug\ONIT 1.exe
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\bin\Debug\ONIT 1.pdb
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\ONIT 1.csproj.AssemblyReference.cache
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\ONIT 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\WPF\ClientsTable.g.cs
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\WPF\LogOfRecordsTable.g.cs
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\WPF\MainWindow.g.cs
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\WPF\TreatmentTable.g.cs
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\App.g.cs
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\ONIT 1_MarkupCompile.cache
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\ONIT 1_MarkupCompile.lref
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\WPF\ClientsTable.baml
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\WPF\LogOfRecordsTable.baml
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\WPF\MainWindow.baml
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\WPF\TreatmentTable.baml
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\ONIT 1.g.resources
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\ONIT_1.Properties.Resources.resources
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\ONIT 1.csproj.GenerateResource.cache
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\ONIT 1.csproj.CoreCompileInputs.cache
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\ONIT 1.exe
+C:\Users\fedot\Desktop\Учеба\7 семестр\Основы новых информационных технологий\ONIT_1\ONIT 1\obj\Debug\ONIT 1.pdb
